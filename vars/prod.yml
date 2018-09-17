@@ -1,0 +1,4 @@
+Domain: go.glad.news
+DynamoCapacity:
+  ReadCapacityUnits: 5
+  WriteCapacityUnits: 5
